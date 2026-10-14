@@ -1,5 +1,4 @@
 name: CI Pipeline Demo
-on: 
   push:
     branches: ["main"]
 jobs:
